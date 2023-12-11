@@ -14,7 +14,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
             {/* LOGO */}
             <Link href="/">
-              <h2 className="text-2xl text-cyan-600 font-bold ">TopScriber</h2>
+              <h2 className="text-2xl text-cyan-600 font-bold ">CityCrest</h2>
             </Link>
             {/* HAMBURGER BUTTON FOR MOBILE */}
             <div className="md:hidden">
@@ -25,7 +25,7 @@ const Navbar = () => {
                 <Bars3Icon className="h-5 w-5" />
               </button>
             </div>
-          </div>
+          </div> 
         </div>
         <div>
           <div
@@ -41,7 +41,7 @@ const Navbar = () => {
               </li>
               <li className="pb-6 text-xl text-white py-2 px-6 text-center  border-b-2 md:border-b-0  hover:bg-purple-600  border-purple-900  md:hover:text-purple-600 md:hover:bg-transparent">
                 <Link href="#blog" onClick={() => setNavbar(!navbar)}>
-                  Blogs
+                  Updates
                 </Link>
               </li>
               <li className="pb-6 text-xl text-white py-2 px-6 text-center  border-b-2 md:border-b-0  hover:bg-purple-600  border-purple-900  md:hover:text-purple-600 md:hover:bg-transparent">
@@ -49,11 +49,7 @@ const Navbar = () => {
                   Contact
                 </Link>
               </li>
-              <li className="pb-6 text-xl text-white py-2 px-6 text-center  border-b-2 md:border-b-0  hover:bg-purple-600  border-purple-900  md:hover:text-purple-600 md:hover:bg-transparent">
-                <Link href="#merchandize" onClick={() => setNavbar(!navbar)}>
-                  Merchandize
-                </Link>
-              </li>
+              
             </ul>
           </div>
         </div>

@@ -6,7 +6,6 @@ import Navbar from "../../src/components/Navbar";
 import PostWidget from "@/components/PostWidget";
 import Categories from "@/components/Categories";
 import EmailSection from "@/components/EmailSection";
-import Merchandize from "@/components/Merchandize";
 
 
 
@@ -23,7 +22,6 @@ export default function Home({ posts }) {
         <br></br>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
       <div className="lg:col-span-8 col-span-1">
-      <h2 className="text-black mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold">Blogs</h2>
         {posts.map((post )=> <PostCard post={post.node} key={post.title}/>)}
       </div>
         <div className="lg:col-span-4 col-span-1">
@@ -39,7 +37,7 @@ export default function Home({ posts }) {
       <h2 className="text-black mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold">Contact</h2>
      
       <EmailSection/>
-      <Merchandize/>
+
     </main>
     
   )
