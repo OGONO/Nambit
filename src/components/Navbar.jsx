@@ -14,7 +14,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
             {/* LOGO */}
             <Link href="/">
-              <h2 className="text-2xl text-cyan-600 font-bold ">CityCrest</h2>
+              <h2 className="text-2xl text-cyan-600 font-bold ">Nambit</h2>
             </Link>
             {/* HAMBURGER BUTTON FOR MOBILE */}
             <div className="md:hidden">
