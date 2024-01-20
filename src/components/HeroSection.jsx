@@ -33,7 +33,7 @@ const HeroSection = () => {
         <p className="text-black text-base sm:text-lg mb-6 lg:text-xl">
           About Nambit and Our Collective Vision:
 
-Welcome to Safaribit, where curiosity meets the world of cryptocurrencies. Newton Sila is the creator behind Safaribit, accompanied by a dedicated ensemble of enthusiasts and experts, all on a collective journey into the fascinating realm of digital assets. Our adventure began during the exhilarating 2021 bull run, sparking a passion for understanding how cryptocurrencies challenge conventional monetary systems.
+Welcome to Nambit, where curiosity meets the world of cryptocurrencies. Newton Sila is the creator behind Nambit, accompanied by a dedicated ensemble of enthusiasts and experts, all on a collective journey into the fascinating realm of digital assets. Our adventure began during the exhilarating 2021 bull run, sparking a passion for understanding how cryptocurrencies challenge conventional monetary systems.
 
 Navigating the Crypto Safari:
 
