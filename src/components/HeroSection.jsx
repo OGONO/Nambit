@@ -19,7 +19,7 @@ const HeroSection = () => {
                 1000,
                 "Current Market Analysis",
                 1000,
-                "Best Teachers",
+                "Smart Contracts",
                 1000,
                 "NFTs",
                 1000,
