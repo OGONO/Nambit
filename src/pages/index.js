@@ -34,7 +34,7 @@ export default function Home({ posts }) {
          
         </div>
       </div>
-      <h2 className="text-black mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold">Contact</h2>
+      
      
     
 
