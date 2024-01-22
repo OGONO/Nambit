@@ -48,28 +48,7 @@ Driven by our collective passion, we've dedicated ourselves to demystifying the 
               About Us
             </span>
             <br></br>
-            <p className="text-black font-normal text-base sm:text-lg mb-6 lg:text-xl">
-Three Pillars: Education, Community, and Collaboration:
-
-Nambit stands on three pillars: education, community building, and collaboration. Whether you're a curious beginner or an experienced enthusiast, Nambit provides a space where our team collaboratively shares insights, connects, and contributes to the evolving narrative of decentralized finance.
-
-Nambit Services:
-
-As your guides on this safari, we offer consultation services and host webinars—bridging the gap between theory and practical understanding. Our aim is to collectively share insights, demystify concepts, and foster a community where we can navigate the complexities of crypto together.
-
-Tailored Collaborations for the African Market:
-
-We are particularly interested in collaborating with brands that bring valuable narratives to the African market. Safaribit aims to address local challenges, contributing to a financial landscape that resonates with the unique experiences of Kenyans.
-
-Nambit's Educational Oasis:
-
-Within this digital oasis, Safaribit offers blog posts on Substack and tutorials—an ensemble of knowledge for those thirsty for crypto insights. Dive into our educational content, explore the basics of investing, and join our Discord community for vibrant discussions.
-
-Building the Future:
-
-Our vision for Safaribit extends beyond personal interests. We aspire to build a platform that onboards a million university students eager to explore the future of money. Safaribit is not just a website; it's a collective endeavor to shape the narrative of decentralized finance.
-
-Embark on the Nambit journey with Newton Sila and our dedicated team, and let's make this crypto safari an expedition to remember</p>
+            
        </h1>
       
           </div>
