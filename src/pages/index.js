@@ -5,7 +5,7 @@ import HeroSection from "../../src/components/HeroSection";
 import Navbar from "../../src/components/Navbar";
 import PostWidget from "@/components/PostWidget";
 import Categories from "@/components/Categories";
-import EmailSection from "@/components/EmailSection";
+
 
 
 
